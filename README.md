@@ -35,7 +35,7 @@ Step-by-step commands to set up the environment and run the code locally:
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/hardikagarwal23/IITG-Hardik-Agarwal-hackathon
 cd iitg-hardik-agarwal-hackathon
 
 # Create and activate a virtual environment
