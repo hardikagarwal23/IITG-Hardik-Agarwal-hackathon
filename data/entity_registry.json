@@ -1,0 +1,17 @@
+{
+  "entities": [
+    {"canonical_name":"Northstar Semiconductors","ticker":"NSTS","sector":"Semiconductors","aliases":["Northstar Semiconductors","Northstar Semi","NSTS"]},
+    {"canonical_name":"Meridian Circuits","ticker":"MRC","sector":"Semiconductors","aliases":["Meridian Circuits","Meridian Circuitry","MRC"]},
+    {"canonical_name":"Harbor National Bank","ticker":"HNB","sector":"Financials","aliases":["Harbor National Bank","Harbor Bank","HNB"]},
+    {"canonical_name":"BluePeak Energy","ticker":"BPE","sector":"Energy","aliases":["BluePeak Energy","BluePeak","BPE"]},
+    {"canonical_name":"Westbridge Airlines","ticker":"WBAI","sector":"Airlines","aliases":["Westbridge Airlines","Westbridge Air","WBAI"]},
+    {"canonical_name":"Cedar Data Systems","ticker":"CDS","sector":"Technology","aliases":["Cedar Data Systems","Cedar Data","CDS"]}
+  ],
+  "sector_aliases": {
+    "Semiconductors":["semiconductor","semiconductors","chipmaker","chipmakers","advanced accelerator","chip equipment","wafer fabrication"],
+    "Technology":["technology sector","software provider","data systems","cloud provider"],
+    "Financials":["banking sector","lender","regional banks","financial institutions","bank"],
+    "Energy":["energy sector","crude oil","energy exports","oil and gas"],
+    "Airlines":["airline","airlines","aviation sector","air carrier"]
+  }
+}

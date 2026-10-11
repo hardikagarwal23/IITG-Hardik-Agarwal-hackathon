@@ -1,0 +1,5 @@
+case_id,case_name,source,headline,source_url,source_mode,expected_mapping
+DIRECT,Credit event with direct exposure,Synthetic Demo Scenario,"Northstar Semiconductors missed a scheduled debt payment and warned of a severe liquidity crisis across its operations.",https://example.org/demo/northstar-default,custom_input,DIRECT
+SECTOR,Export-controls sector event,Synthetic Demo Scenario,"Sweeping export controls halt advanced semiconductor equipment shipments across several manufacturers, causing a major sector disruption.",https://example.org/demo/semiconductor-controls,custom_input,SECTOR
+UNMAPPED,High-severity event with no portfolio exposure,Synthetic Demo Scenario,"Westbridge Airlines halted all operations after a severe cyberattack disrupted airport systems across the network.",https://example.org/demo/westbridge-cyber,custom_input,NO_MAPPED_EXPOSURE
+MACRO,Macro rates shock,Synthetic Demo Scenario,"The central bank announced an emergency rate hike of 200 basis points as inflation remained elevated across the economy.",https://example.org/demo/rates-up,custom_input,MACRO
