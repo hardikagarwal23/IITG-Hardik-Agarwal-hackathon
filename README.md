@@ -50,3 +50,9 @@ pip install -r requirements.txt
 
 # Launch both the FastAPI backend and Streamlit dashboard simultaneously
 python scripts/run.py
+```
+
+## 5. Key Results & Domain Impact
+*   **Real-time Risk Attribution:** Demonstrates the ability to parse a breaking news headline and immediately identify affected portfolio positions within milliseconds, drastically reducing manual risk-assessment latency.
+*   **Exposure-Aware Modeling:** Outputs quantifiable P&L impact estimates (e.g., total loss, incremental ECL, bond/swap value changes) based on dynamic attenuation factors, moving beyond naive blanket haircuts.
+*   **Explainability & Auditability:** Every generated signal includes a strict JSON payload detailing the specific evidence quote, severity rationale, and mapping logic, ensuring compliance and trust in the system's outputs.
