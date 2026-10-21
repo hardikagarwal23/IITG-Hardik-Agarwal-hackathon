@@ -10,7 +10,7 @@
 
 **Slide Deck Link:** Included in `docs/presentation.pdf`
  
-## 1. Project Overview / Problem Statement & Approach
+## 1. Problem Statement & Approach
 Risk managers currently struggle to instantly quantify the balance-sheet impact of breaking news and macroeconomic shifts. **Signal2Stress** bridges the gap between unstructured financial text and quantitative exposure management. It is a deterministic, low-latency wholesale financial risk intelligence system. 
 
 Instead of relying on slow, unpredictable, and expensive generative LLMs, this solution utilizes a highly optimized deterministic NLP pipeline (regex-based rule matching combined with FinBERT sentiment scoring) to classify market events. It then automatically maps these events (Direct, Sector, or Macro) to a synthetic wholesale portfolio and instantly executes exposure-aware first-order stress calculations (e.g., ECL changes for loans, duration shocks for bonds, DV01 shifts for swaps).
