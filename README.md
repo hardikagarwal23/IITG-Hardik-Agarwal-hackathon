@@ -4,8 +4,12 @@
 
 **College Email ID:** a.hardik@iitg.ac.in
 
-**College / Campus:** Indian Institute of Technology (IIT), Guwahati
+**College:** Indian Institute of Technology (IIT), Guwahati
 
+**Demo Video Link:** https://www.youtube.com/watch?v=Z01owVVjXbM
+
+**Slide Deck Link:** Included in `docs/presentation.pdf`
+ 
 ## 1. Project Overview / Problem Statement & Approach
 Risk managers currently struggle to instantly quantify the balance-sheet impact of breaking news and macroeconomic shifts. **Signal2Stress** bridges the gap between unstructured financial text and quantitative exposure management. It is a deterministic, low-latency wholesale financial risk intelligence system. 
 
